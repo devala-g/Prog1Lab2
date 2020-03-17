@@ -20,6 +20,9 @@ public class Calculator {
                 "3. Multiplication\n" +
                 "4. Division");
 
+        //This comment is for Git Hub!!!!
+        System.out.println("This is another commit for git hub");
+
         System.out.print("Which operation do you want to perform?");
         menuInput = scnr.nextInt();
         if (menuInput == 1){
